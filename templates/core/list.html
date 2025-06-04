@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block title %}Список файлов{% endblock %}
+
+{% block content %}
+<h1>Список файлов</h1>
+
+<p>
+    <a href="{% url 'upload_file' %}" class="button-link">Загрузить новый файл</a>
+    <a href="{% url 'send_report' %}" class="button-link">Отправить отчет</a>
+</p>
+
+{% if files %}
+    <ul>
+    {% for file_obj in files %}
+        <li>
+            <p><strong>Название файла:</strong> <a href="{{ file_obj.file.url }}">{{ file_obj.file.name }}</a></p>
+            <p><strong>Описание:</strong> {{ file_obj.description }}</p>
+            <p>Загружено: {{ file_obj.uploaded_at }}</p>
+            <p>
+                <!-- Кнопки "Заменить" и "Удалить" -->
+                <a href="{% url 'replace_file' file_obj.id %}">Заменить</a> |
+                <a href="{% url 'delete_file' file_obj.id %}">Удалить</a>
+            </p>
+        </li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>Файлы пока не загружены.</p>
+{% endif %}
+
+{% endblock %} 
