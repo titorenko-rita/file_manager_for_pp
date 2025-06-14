@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+
+{% block title %}Личный кабинет{% endblock %}
+
+{% block content %}
+<div class="profile-container">
+    <h1>Личный кабинет</h1>
+    
+    <div class="profile-info">
+        <h2>Информация о пользователе</h2>
+        <p><strong>Имя пользователя:</strong> {{ user.username }}</p>
+        <p><strong>Email:</strong> {{ user.email }}</p>
+    </div>
+
+    <div class="profile-stats">
+        <h2>Статистика</h2>
+        <p><strong>Всего файлов:</strong> {{ user_stats.total_files }}</p>
+        <p><strong>Последняя активность:</strong> {{ user_stats.last_activity|default:"Нет активности" }}</p>
+    </div>
+
+    <div class="recent-files">
+        <h2>Последние файлы</h2>
+        {% if user_stats.recent_files %}
+            <ul>
+            {% for file in user_stats.recent_files %}
+                <li>
+                    <p><strong>Название:</strong> {{ file.file.name }}</p>
+                    <p><strong>Загружен:</strong> {{ file.uploaded_at }}</p>
+                    <p><strong>Описание:</strong> {{ file.description }}</p>
+                </li>
+            {% endfor %}
+            </ul>
+        {% else %}
+            <p>У вас пока нет загруженных файлов.</p>
+        {% endif %}
+    </div>
+
+    <div class="profile-actions">
+        <a href="{% url 'upload_file' %}" class="button-link">Загрузить новый файл</a>
+        <a href="{% url 'file_list' %}" class="button-link">К списку файлов</a>
+    </div>
+</div>
+{% endblock %} 

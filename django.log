@@ -1,0 +1,321 @@
+INFO 2025-06-13 15:57:13,380 autoreload 5596 2440 Watching for file changes with StatReloader
+INFO 2025-06-13 15:57:13,597 autoreload 2000 9612 Watching for file changes with StatReloader
+INFO 2025-06-13 15:57:32,713 autoreload 5596 2440 C:\Users\titor\Desktop\Колледж\Производственная практика\filemanager\core\views.py changed, reloading.
+INFO 2025-06-13 15:57:32,956 autoreload 2000 9612 C:\Users\titor\Desktop\Колледж\Производственная практика\filemanager\core\views.py changed, reloading.
+INFO 2025-06-13 15:57:33,247 autoreload 17080 9380 Watching for file changes with StatReloader
+INFO 2025-06-13 15:57:33,482 autoreload 12712 19552 Watching for file changes with StatReloader
+INFO 2025-06-13 15:58:17,653 autoreload 17080 9380 C:\Users\titor\Desktop\Колледж\Производственная практика\filemanager\filemanager\settings.py changed, reloading.
+INFO 2025-06-13 15:58:17,910 autoreload 12712 19552 C:\Users\titor\Desktop\Колледж\Производственная практика\filemanager\filemanager\settings.py changed, reloading.
+INFO 2025-06-13 15:58:18,139 autoreload 19800 22704 Watching for file changes with StatReloader
+INFO 2025-06-13 15:58:18,402 autoreload 21484 18920 Watching for file changes with StatReloader
+INFO 2025-06-13 16:15:05,712 basehttp 19800 6800 "GET /accounts/logout/ HTTP/1.1" 200 1073
+INFO 2025-06-13 16:15:05,718 basehttp 19800 6800 "GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2025-06-13 16:15:17,049 basehttp 19800 6800 "GET /accounts/logout/ HTTP/1.1" 200 1073
+INFO 2025-06-13 16:15:17,825 basehttp 19800 6800 "GET /accounts/logout/ HTTP/1.1" 200 1073
+INFO 2025-06-13 16:15:17,989 basehttp 19800 6800 "GET /accounts/logout/ HTTP/1.1" 200 1073
+INFO 2025-06-13 16:15:18,169 basehttp 19800 6800 "GET /accounts/logout/ HTTP/1.1" 200 1073
+INFO 2025-06-13 16:15:18,328 basehttp 19800 6800 "GET /accounts/logout/ HTTP/1.1" 200 1073
+INFO 2025-06-13 16:15:23,469 views 19800 6800 Пользователь margusha просматривает свой профиль.
+INFO 2025-06-13 16:15:23,473 basehttp 19800 6800 "GET /profile/ HTTP/1.1" 200 1659
+INFO 2025-06-13 16:17:00,487 views 19800 6800 Пользователь margusha просматривает список файлов.
+INFO 2025-06-13 16:17:00,489 basehttp 19800 6800 "GET / HTTP/1.1" 200 956
+INFO 2025-06-13 16:17:05,660 basehttp 19800 6800 "GET /accounts/logout/ HTTP/1.1" 200 1073
+INFO 2025-06-13 16:17:07,121 basehttp 19800 6800 "GET /upload/ HTTP/1.1" 200 1263
+INFO 2025-06-13 16:17:07,852 views 19800 6800 Пользователь margusha просматривает список файлов.
+INFO 2025-06-13 16:17:07,854 basehttp 19800 6800 "GET / HTTP/1.1" 200 956
+INFO 2025-06-13 16:17:09,023 views 19800 6800 Пользователь margusha просматривает свой профиль.
+INFO 2025-06-13 16:17:09,025 basehttp 19800 6800 "GET /profile/ HTTP/1.1" 200 1659
+INFO 2025-06-13 16:17:50,308 views 19800 6800 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:17:50,644 views 19800 6800 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:17:50,663 basehttp 19800 6800 "GET /api/files/ HTTP/1.1" 200 15509
+INFO 2025-06-13 16:17:50,894 basehttp 19800 23892 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2025-06-13 16:17:50,896 basehttp 19800 23892 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2025-06-13 16:17:50,897 basehttp 19800 23892 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2025-06-13 16:17:50,899 basehttp 19800 23892 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2025-06-13 16:17:50,901 basehttp 19800 23892 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2025-06-13 16:17:50,901 basehttp 19800 19356 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2025-06-13 16:17:50,903 basehttp 19800 23040 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2025-06-13 16:17:50,903 basehttp 19800 23892 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2025-06-13 16:17:50,905 basehttp 19800 23744 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2025-06-13 16:17:50,905 basehttp 19800 6800 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2025-06-13 16:17:50,906 basehttp 19800 21524 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2025-06-13 16:17:50,923 basehttp 19800 21524 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2025-06-13 16:17:50,938 basehttp 19800 21524 "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+INFO 2025-06-13 16:20:33,947 views 19800 21524 API: Пользователь margusha успешно загрузил файл 'uploads/vk_token.txt' через API.
+INFO 2025-06-13 16:20:33,955 basehttp 19800 21524 "POST /api/files/ HTTP/1.1" 201 14049
+INFO 2025-06-13 16:20:33,965 basehttp 19800 23892 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2025-06-13 16:20:33,965 basehttp 19800 6800 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2025-06-13 16:20:33,965 basehttp 19800 21524 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2025-06-13 16:20:33,965 basehttp 19800 23040 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:20:33,965 basehttp 19800 23744 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2025-06-13 16:20:33,965 basehttp 19800 19356 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:20:33,970 basehttp 19800 23892 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:20:33,970 basehttp 19800 6800 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:20:33,970 basehttp 19800 23040 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:20:33,971 basehttp 19800 21524 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:20:33,971 basehttp 19800 19356 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:20:59,447 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:20:59,451 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:20:59,456 basehttp 19800 19356 "GET /api/files/ HTTP/1.1" 200 15906
+INFO 2025-06-13 16:23:52,940 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:23:52,945 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:23:52,951 basehttp 19800 19356 "GET /api/files/?description=%D0%BE%D0%BF%D0%B0%D0%BD%D0%B0 HTTP/1.1" 200 16234
+INFO 2025-06-13 16:23:52,960 basehttp 19800 19356 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2025-06-13 16:23:52,961 basehttp 19800 21524 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2025-06-13 16:23:52,961 basehttp 19800 23040 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2025-06-13 16:23:52,961 basehttp 19800 6800 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2025-06-13 16:23:52,961 basehttp 19800 23892 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:23:52,961 basehttp 19800 23744 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:23:52,963 basehttp 19800 19356 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:23:52,964 basehttp 19800 21524 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:23:52,965 basehttp 19800 23040 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:23:52,965 basehttp 19800 6800 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:23:52,967 basehttp 19800 23744 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:24:06,752 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:24:06,757 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:24:06,762 basehttp 19800 23744 "GET /api/files/?search=%D0%BE%D0%BF%D0%B0%D0%BD%D0%B0 HTTP/1.1" 200 16190
+INFO 2025-06-13 16:25:15,599 views 19800 23744 API: Пользователь margusha успешно загрузил файл 'uploads/Конспекты_по_C.docx' через API.
+INFO 2025-06-13 16:25:15,604 basehttp 19800 23744 "POST /api/files/?search=%D0%BE%D0%BF%D0%B0%D0%BD%D0%B0 HTTP/1.1" 201 14525
+INFO 2025-06-13 16:25:43,120 views 19800 23744 API: Пользователь margusha успешно загрузил файл 'uploads/2025-02-28_14-08-22.png' через API.
+INFO 2025-06-13 16:25:43,126 basehttp 19800 23744 "POST /api/files/?search=%D0%BE%D0%BF%D0%B0%D0%BD%D0%B0 HTTP/1.1" 201 14368
+INFO 2025-06-13 16:25:49,044 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:25:49,046 basehttp 19800 23744 "GET /api/files/?format=json&search=%D0%BE%D0%BF%D0%B0%D0%BD%D0%B0 HTTP/1.1" 200 198
+INFO 2025-06-13 16:25:57,562 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:25:57,567 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:25:57,572 basehttp 19800 23744 "GET /api/files/?format=api&search=%D0%BE%D0%BF%D0%B0%D0%BD%D0%B0 HTTP/1.1" 200 16287
+INFO 2025-06-13 16:26:01,873 basehttp 19800 23744 "OPTIONS /api/files/?format=api&search=%D0%BE%D0%BF%D0%B0%D0%BD%D0%B0 HTTP/1.1" 200 15791
+INFO 2025-06-13 16:26:11,814 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:26:11,818 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:26:11,823 basehttp 19800 23744 "GET /api/files/?format=api&search=%D0%BE%D0%BF%D0%B0%D0%BD%D0%B0 HTTP/1.1" 200 16287
+INFO 2025-06-13 16:26:13,438 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:26:13,442 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:26:13,447 basehttp 19800 23744 "GET /api/files/?format=api&search=%D0%BE%D0%BF%D0%B0%D0%BD%D0%B0 HTTP/1.1" 200 16287
+INFO 2025-06-13 16:26:14,504 basehttp 19800 23744 "OPTIONS /api/files/?format=api&search=%D0%BE%D0%BF%D0%B0%D0%BD%D0%B0 HTTP/1.1" 200 15791
+INFO 2025-06-13 16:26:18,802 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:26:18,807 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:26:18,811 basehttp 19800 23744 "GET /api/files/?format=api&search=%D0%BE%D0%BF%D0%B0%D0%BD%D0%B0 HTTP/1.1" 200 16287
+INFO 2025-06-13 16:26:21,811 basehttp 19800 23744 "OPTIONS /api/files/?format=api&search=%D0%BE%D0%BF%D0%B0%D0%BD%D0%B0 HTTP/1.1" 200 15791
+INFO 2025-06-13 16:26:32,037 basehttp 19800 23744 "OPTIONS /api/files/?format=api&search=%D0%BE%D0%BF%D0%B0%D0%BD%D0%B0 HTTP/1.1" 200 15791
+INFO 2025-06-13 16:26:36,269 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:26:36,273 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:26:36,278 basehttp 19800 23744 "GET /api/files/?format=api&search=%D0%BE%D0%BF%D0%B0%D0%BD%D0%B0 HTTP/1.1" 200 16287
+INFO 2025-06-13 16:26:37,517 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:26:37,522 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:26:37,526 basehttp 19800 23744 "GET /api/files/?format=api&search=%D0%BE%D0%BF%D0%B0%D0%BD%D0%B0 HTTP/1.1" 200 16287
+INFO 2025-06-13 16:26:38,302 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:26:38,306 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:26:38,311 basehttp 19800 23744 "GET /api/files/?format=api&search=%D0%BE%D0%BF%D0%B0%D0%BD%D0%B0 HTTP/1.1" 200 16287
+INFO 2025-06-13 16:26:47,257 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:26:47,261 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:26:47,267 basehttp 19800 23744 "GET /api/files/?search=%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%8B HTTP/1.1" 200 16498
+INFO 2025-06-13 16:27:26,153 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:27:26,160 views 19800 23744 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:27:26,165 basehttp 19800 23744 "GET /api/files/?description=%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%8B HTTP/1.1" 200 16542
+INFO 2025-06-13 16:27:26,177 basehttp 19800 23744 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2025-06-13 16:27:26,177 basehttp 19800 23040 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2025-06-13 16:27:26,177 basehttp 19800 6800 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2025-06-13 16:27:26,177 basehttp 19800 23892 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:27:26,177 basehttp 19800 19356 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:27:26,177 basehttp 19800 21524 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2025-06-13 16:27:26,181 basehttp 19800 23040 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:27:26,181 basehttp 19800 23744 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:27:26,182 basehttp 19800 6800 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:27:26,182 basehttp 19800 23892 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:27:26,182 basehttp 19800 19356 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2025-06-13 16:29:22,050 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:29:22,054 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:29:22,060 basehttp 19800 19356 "GET /api/files/?search= HTTP/1.1" 200 16916
+INFO 2025-06-13 16:29:28,637 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:29:28,643 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:29:28,649 basehttp 19800 19356 "GET /api/files/?search= HTTP/1.1" 200 16916
+INFO 2025-06-13 16:29:29,921 basehttp 19800 19356 "OPTIONS /api/files/?search= HTTP/1.1" 200 15484
+INFO 2025-06-13 16:30:47,408 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:30:47,414 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:30:47,420 basehttp 19800 19356 "GET /api/files/?limit=1&offset=0 HTTP/1.1" 200 17057
+INFO 2025-06-13 16:30:47,512 basehttp 19800 19356 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2025-06-13 16:30:47,534 basehttp 19800 19356 "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+INFO 2025-06-13 16:30:53,900 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:30:53,905 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:30:53,910 basehttp 19800 19356 "GET /api/files/?limit=1&offset=1 HTTP/1.1" 200 17329
+INFO 2025-06-13 16:30:54,186 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:30:54,192 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:30:54,196 basehttp 19800 19356 "GET /api/files/?limit=1&offset=1 HTTP/1.1" 200 17329
+INFO 2025-06-13 16:30:55,577 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:30:55,582 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:30:55,587 basehttp 19800 19356 "GET /api/files/?limit=1&offset=2 HTTP/1.1" 200 17085
+INFO 2025-06-13 16:30:55,815 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:30:55,820 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:30:55,825 basehttp 19800 19356 "GET /api/files/?limit=1&offset=2 HTTP/1.1" 200 17085
+INFO 2025-06-13 16:30:56,531 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:30:56,536 views 19800 19356 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-13 16:30:56,541 basehttp 19800 19356 "GET /api/files/?limit=1&offset=2 HTTP/1.1" 200 17085
+INFO 2025-06-13 16:33:29,481 autoreload 21484 18920 C:\Users\titor\Desktop\Колледж\Производственная практика\filemanager\filemanager\settings.py changed, reloading.
+INFO 2025-06-13 16:33:29,890 autoreload 19800 22704 C:\Users\titor\Desktop\Колледж\Производственная практика\filemanager\filemanager\settings.py changed, reloading.
+INFO 2025-06-13 16:58:34,634 autoreload 16992 1688 Watching for file changes with StatReloader
+INFO 2025-06-13 16:58:42,021 basehttp 16992 24516 "GET /profile/ HTTP/1.1" 200 12388
+INFO 2025-06-13 16:58:42,030 basehttp 16992 23728 "GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2025-06-13 16:58:42,032 basehttp 16992 24516 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2025-06-13 16:58:42,032 basehttp 16992 14964 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13578
+INFO 2025-06-13 16:58:42,032 basehttp 16992 19844 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2025-06-13 16:58:42,038 basehttp 16992 19844 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+INFO 2025-06-13 16:58:50,796 basehttp 16992 19844 "GET /__debug__/render_panel/?store_id=d5f202575cb9485585931a682b97afd0&panel_id=SignalsPanel HTTP/1.1" 200 2489
+INFO 2025-06-13 16:58:53,795 basehttp 16992 19844 "GET /__debug__/render_panel/?store_id=d5f202575cb9485585931a682b97afd0&panel_id=HistoryPanel HTTP/1.1" 200 2513
+INFO 2025-06-13 16:58:53,797 basehttp 16992 19844 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3515
+INFO 2025-06-13 16:58:56,115 basehttp 16992 19844 "GET /__debug__/render_panel/?store_id=d5f202575cb9485585931a682b97afd0&panel_id=VersionsPanel HTTP/1.1" 200 1368
+INFO 2025-06-13 16:59:03,822 basehttp 16992 19844 "GET /__debug__/render_panel/?store_id=d5f202575cb9485585931a682b97afd0&panel_id=SettingsPanel HTTP/1.1" 200 30293
+INFO 2025-06-13 16:59:08,349 basehttp 16992 19844 "GET /__debug__/render_panel/?store_id=d5f202575cb9485585931a682b97afd0&panel_id=HeadersPanel HTTP/1.1" 200 4762
+INFO 2025-06-13 16:59:32,203 autoreload 15848 24308 Watching for file changes with StatReloader
+WARNING 2025-06-13 17:02:16,184 log 16992 19844 Not Found: /status/э
+WARNING 2025-06-13 17:02:16,185 basehttp 16992 19844 "GET /status/%D1%8D HTTP/1.1" 404 14486
+INFO 2025-06-13 17:02:16,198 basehttp 16992 19844 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2025-06-13 17:02:16,198 basehttp 16992 14964 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2025-06-13 17:02:16,205 basehttp 16992 14964 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2025-06-13 17:02:16,206 basehttp 16992 14964 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+ERROR 2025-06-13 17:02:20,911 log 16992 14964 Internal Server Error: /status/
+Traceback (most recent call last):
+  File "C:\Users\titor\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\titor\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\titor\Desktop\Колледж\Производственная практика\filemanager\core\views.py", line 226, in status_page
+    logger.info(f"Запрошена страница статуса. Пользователей: {total_users}, Общий размер файлов: {total_files_size_mb} MB, Статус Email: {email_status}.")
+                                                                                                  ^^^^^^^^^^^^^^^^^^^
+NameError: name 'total_files_size_mb' is not defined
+ERROR 2025-06-13 17:02:20,931 basehttp 16992 14964 "GET /status/ HTTP/1.1" 500 84011
+INFO 2025-06-13 17:04:47,069 autoreload 14272 9968 Watching for file changes with StatReloader
+INFO 2025-06-13 17:05:02,941 autoreload 22812 18164 Watching for file changes with StatReloader
+INFO 2025-06-13 17:05:06,847 basehttp 14272 18172 "GET / HTTP/1.1" 200 12401
+INFO 2025-06-13 17:05:06,922 basehttp 14272 17532 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2025-06-13 17:05:06,922 basehttp 14272 18172 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2025-06-13 17:05:06,927 basehttp 14272 18172 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2025-06-13 17:05:06,927 basehttp 14272 17532 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2025-06-13 17:05:36,803 basehttp 14272 17532 "GET /status/ HTTP/1.1" 200 11070
+INFO 2025-06-13 17:05:36,812 basehttp 14272 17532 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2025-06-13 17:05:36,812 basehttp 14272 18172 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2025-06-13 17:05:36,815 basehttp 14272 20716 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2025-06-13 17:05:36,825 basehttp 14272 20716 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+WARNING 2025-06-14 11:24:07,147 log 18212 19148 Forbidden: /files/
+WARNING 2025-06-14 11:24:21,526 log 15300 15644 Forbidden: /files/
+WARNING 2025-06-14 11:25:47,053 log 13216 12108 Forbidden: /files/
+WARNING 2025-06-14 11:26:21,976 log 15548 20616 Forbidden: /files/
+WARNING 2025-06-14 11:28:02,015 log 16792 1648 Forbidden: /files/
+WARNING 2025-06-14 11:33:00,003 log 5884 18880 Forbidden: /files/
+WARNING 2025-06-14 11:33:09,321 log 5884 18880 Not Found: /replace/99999/
+WARNING 2025-06-14 11:33:09,324 log 5884 18880 Not Found: /delete/99999/
+ERROR 2025-06-14 11:33:11,128 log 5884 18880 Internal Server Error: /status/
+Traceback (most recent call last):
+  File "C:\Users\titor\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\titor\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\titor\Desktop\Колледж\Производственная практика\filemanager\core\views.py", line 208, in status_page
+    total_users = User.objects.count()
+                  ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\titor\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\titor\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 604, in count
+    return self.query.get_count(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\titor\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 644, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\titor\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 626, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\titor\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\compiler.py", line 1621, in execute_sql
+    cursor = self.connection.cursor()
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\titor\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\titor\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\base\base.py", line 320, in cursor
+    return self._cursor()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\titor\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\base\base.py", line 296, in _cursor
+    self.ensure_connection()
+  File "C:\Users\titor\AppData\Local\Programs\Python\Python311\Lib\site-packages\pytest_django\plugin.py", line 803, in _blocking_wrapper
+    raise RuntimeError(
+RuntimeError: Database access not allowed, use the "django_db" mark, or the "db" or "transactional_db" fixtures to enable it.
+WARNING 2025-06-14 11:33:53,343 log 21432 19824 Forbidden: /files/
+WARNING 2025-06-14 11:34:02,600 log 21432 19824 Not Found: /replace/99999/
+WARNING 2025-06-14 11:34:02,604 log 21432 19824 Not Found: /delete/99999/
+INFO 2025-06-14 11:39:07,046 autoreload 15352 8240 Watching for file changes with StatReloader
+INFO 2025-06-14 11:39:26,798 basehttp 15352 1636 "GET / HTTP/1.1" 200 12401
+INFO 2025-06-14 11:39:26,906 basehttp 15352 1636 "GET /static/css/style.css HTTP/1.1" 200 4739
+INFO 2025-06-14 11:39:26,916 basehttp 15352 1636 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2025-06-14 11:39:26,916 basehttp 15352 13248 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2025-06-14 11:39:26,927 basehttp 15352 5252 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13578
+INFO 2025-06-14 11:39:26,963 basehttp 15352 5252 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+WARNING 2025-06-14 11:39:27,019 log 15352 5252 Not Found: /favicon.ico
+WARNING 2025-06-14 11:39:27,020 basehttp 15352 5252 "GET /favicon.ico HTTP/1.1" 404 16162
+INFO 2025-06-14 11:39:35,159 basehttp 15352 5252 "GET /status/ HTTP/1.1" 200 11070
+INFO 2025-06-14 11:39:38,930 basehttp 15352 5252 "GET /api/files/?limit=1&offset=1 HTTP/1.1" 200 27199
+INFO 2025-06-14 11:39:38,955 basehttp 15352 1636 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2025-06-14 11:39:38,956 basehttp 15352 13248 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2025-06-14 11:39:38,959 basehttp 15352 20952 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2025-06-14 11:39:38,961 basehttp 15352 5252 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2025-06-14 11:39:38,979 basehttp 15352 1636 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2025-06-14 11:39:38,980 basehttp 15352 7596 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2025-06-14 11:39:38,982 basehttp 15352 5252 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2025-06-14 11:39:38,990 basehttp 15352 7596 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2025-06-14 11:39:38,991 basehttp 15352 1636 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2025-06-14 11:39:38,993 basehttp 15352 20952 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2025-06-14 11:39:38,996 basehttp 15352 13248 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2025-06-14 11:39:39,009 basehttp 15352 13248 "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+INFO 2025-06-14 11:39:39,011 basehttp 15352 9392 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2025-06-14 11:41:14,230 autoreload 15352 8240 C:\Users\titor\Desktop\Колледж\Производственная практика\filemanager\filemanager\settings.py changed, reloading.
+INFO 2025-06-14 11:41:14,857 autoreload 652 19824 Watching for file changes with StatReloader
+INFO 2025-06-14 11:41:19,578 autoreload 652 19824 C:\Users\titor\Desktop\Колледж\Производственная практика\filemanager\core\urls.py changed, reloading.
+INFO 2025-06-14 11:41:20,137 autoreload 21280 4284 Watching for file changes with StatReloader
+INFO 2025-06-14 11:43:37,443 autoreload 21280 4284 C:\Users\titor\Desktop\Колледж\Производственная практика\filemanager\core\urls.py changed, reloading.
+INFO 2025-06-14 11:43:38,031 autoreload 15664 14828 Watching for file changes with StatReloader
+INFO 2025-06-14 11:51:22,199 basehttp 15664 2136 "GET / HTTP/1.1" 200 12401
+WARNING 2025-06-14 11:51:28,009 log 15664 2136 Method Not Allowed: /api/ml/predict/
+WARNING 2025-06-14 11:51:28,010 basehttp 15664 2136 "GET /api/ml/predict/ HTTP/1.1" 405 20483
+INFO 2025-06-14 11:52:55,426 basehttp 15664 2136 "OPTIONS /api/ml/predict/ HTTP/1.1" 200 20739
+INFO 2025-06-14 11:52:55,639 basehttp 15664 2136 "GET /__debug__/history_sidebar/?store_id=c28590ce770b412fae32b69592fe4c0f HTTP/1.1" 200 12989
+INFO 2025-06-14 11:52:57,034 basehttp 15664 2136 "OPTIONS /api/ml/predict/ HTTP/1.1" 200 20739
+INFO 2025-06-14 11:52:57,247 basehttp 15664 2136 "GET /__debug__/history_sidebar/?store_id=a52f41fa7d94477a8978ac1bb85a78f6 HTTP/1.1" 200 12989
+INFO 2025-06-14 11:52:57,251 basehttp 15664 2136 "GET /__debug__/history_sidebar/?store_id=a52f41fa7d94477a8978ac1bb85a78f6 HTTP/1.1" 200 12989
+INFO 2025-06-14 12:43:28,461 basehttp 15664 22316 "GET /accounts/logout/ HTTP/1.1" 200 10901
+INFO 2025-06-14 12:43:29,857 basehttp 15664 22316 "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-06-14 12:43:29,949 basehttp 15664 22316 "GET /accounts/login/ HTTP/1.1" 200 12326
+INFO 2025-06-14 12:44:22,299 basehttp 15664 22316 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-06-14 12:44:22,317 basehttp 15664 22316 "GET / HTTP/1.1" 200 12654
+INFO 2025-06-14 12:44:24,978 basehttp 15664 22316 "GET /upload/ HTTP/1.1" 200 11082
+INFO 2025-06-14 12:46:26,728 basehttp 15664 22316 "POST /upload/ HTTP/1.1" 302 0
+INFO 2025-06-14 12:46:26,747 basehttp 15664 22316 "GET / HTTP/1.1" 200 12920
+INFO 2025-06-14 12:46:51,991 basehttp 15664 22316 "GET /profile/ HTTP/1.1" 200 12689
+INFO 2025-06-14 12:48:14,792 basehttp 15664 22316 "GET /status/ HTTP/1.1" 200 11071
+INFO 2025-06-14 13:22:29,183 basehttp 15664 15280 "GET /__debug__/render_panel/?store_id=e2e3cdef90d948bfbb2a4fedf565d1a8&panel_id=StaticFilesPanel HTTP/1.1" 200 46992
+INFO 2025-06-14 13:22:35,181 basehttp 15664 15280 "GET /__debug__/render_panel/?store_id=e2e3cdef90d948bfbb2a4fedf565d1a8&panel_id=TemplatesPanel HTTP/1.1" 200 6664
+INFO 2025-06-14 13:22:37,432 basehttp 15664 15280 "GET /__debug__/render_panel/?store_id=e2e3cdef90d948bfbb2a4fedf565d1a8&panel_id=RequestPanel HTTP/1.1" 200 2983
+INFO 2025-06-14 13:22:38,087 basehttp 15664 15280 "GET /__debug__/render_panel/?store_id=e2e3cdef90d948bfbb2a4fedf565d1a8&panel_id=HeadersPanel HTTP/1.1" 200 4670
+INFO 2025-06-14 13:22:38,692 basehttp 15664 15280 "GET /__debug__/render_panel/?store_id=e2e3cdef90d948bfbb2a4fedf565d1a8&panel_id=SettingsPanel HTTP/1.1" 200 30315
+INFO 2025-06-14 13:22:45,815 basehttp 15664 15280 "GET / HTTP/1.1" 200 12920
+INFO 2025-06-14 13:22:51,325 basehttp 15664 15280 "GET /profile/ HTTP/1.1" 200 12689
+INFO 2025-06-14 13:22:55,650 basehttp 15664 15280 "GET / HTTP/1.1" 200 12920
+INFO 2025-06-14 13:22:57,457 basehttp 15664 15280 "GET / HTTP/1.1" 200 12920
+INFO 2025-06-14 13:22:58,833 basehttp 15664 15280 "GET /accounts/logout/ HTTP/1.1" 200 10901
+INFO 2025-06-14 13:23:01,539 basehttp 15664 15280 "GET /upload/ HTTP/1.1" 200 11082
+INFO 2025-06-14 13:23:04,217 basehttp 15664 15280 "GET /accounts/logout/ HTTP/1.1" 200 10901
+INFO 2025-06-14 13:23:05,692 basehttp 15664 15280 "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2025-06-14 13:23:05,706 basehttp 15664 15280 "GET /accounts/login/ HTTP/1.1" 200 12329
+INFO 2025-06-14 13:23:08,705 basehttp 15664 15280 "GET /accounts/signup/ HTTP/1.1" 200 12908
+INFO 2025-06-14 13:24:06,146 basehttp 15664 15280 "POST /accounts/signup/ HTTP/1.1" 200 13218
+INFO 2025-06-14 13:25:31,371 basehttp 15664 15280 "POST /accounts/signup/ HTTP/1.1" 302 0
+INFO 2025-06-14 13:25:31,393 basehttp 15664 15280 "GET / HTTP/1.1" 200 11010
+INFO 2025-06-14 13:25:47,597 basehttp 15664 15280 "GET /upload/ HTTP/1.1" 200 11079
+INFO 2025-06-14 13:26:03,929 basehttp 15664 12864 "POST /upload/ HTTP/1.1" 302 0
+INFO 2025-06-14 13:26:03,947 basehttp 15664 12864 "GET / HTTP/1.1" 200 11264
+INFO 2025-06-14 13:26:07,022 basehttp 15664 12864 "GET /upload/ HTTP/1.1" 200 11079
+INFO 2025-06-14 13:26:30,628 basehttp 15664 12864 "POST /upload/ HTTP/1.1" 302 0
+INFO 2025-06-14 13:26:30,648 basehttp 15664 12864 "GET / HTTP/1.1" 200 11966
+INFO 2025-06-14 13:26:32,678 basehttp 15664 12864 "GET /upload/ HTTP/1.1" 200 11079
+INFO 2025-06-14 13:27:34,735 basehttp 15664 12864 "POST /upload/ HTTP/1.1" 302 0
+INFO 2025-06-14 13:27:34,753 basehttp 15664 12864 "GET / HTTP/1.1" 200 12527

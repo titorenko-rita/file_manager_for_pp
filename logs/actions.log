@@ -1,0 +1,188 @@
+INFO 2025-06-13 16:58:41,963 views 16992 24516 Пользователь margusha просматривает свой профиль.
+INFO 2025-06-13 17:05:06,804 views 14272 18172 Пользователь margusha просматривает список файлов.
+INFO 2025-06-13 17:05:36,784 views 14272 17532 Запрошена страница статуса. Пользователей: 2, Общий размер файлов: 0.3 MB, Статус Email: Настроен и доступен.
+INFO 2025-06-13 18:31:17,476 views 19948 25484 Уведомление о файле 'uploads/test_file.txt' (создан) успешно отправлено.
+INFO 2025-06-13 18:31:17,477 views 19948 25484 Пользователь testadmin успешно загрузил файл 'uploads/test_file.txt'.
+INFO 2025-06-13 18:31:20,376 views 19948 25484 Уведомление о файле 'uploads/dummy.txt' (создан) успешно отправлено.
+INFO 2025-06-13 18:31:21,284 views 19948 25484 Отчет на почту test@example.com успешно отправлен пользователем testadmin.
+INFO 2025-06-13 18:43:16,126 views 23944 23364 Уведомление о файле 'uploads/test_file_Jyn90Wl.txt' (создан) успешно отправлено.
+INFO 2025-06-13 18:43:16,126 views 23944 23364 Пользователь testadmin успешно загрузил файл 'uploads/test_file_Jyn90Wl.txt'.
+INFO 2025-06-13 18:43:18,975 views 23944 23364 Уведомление о файле 'uploads/dummy_k8VSe64.txt' (создан) успешно отправлено.
+INFO 2025-06-13 18:43:19,898 views 23944 23364 Отчет на почту test@example.com успешно отправлен пользователем testadmin.
+INFO 2025-06-13 18:46:48,686 views 21840 14908 Уведомление о файле 'uploads/test_file_WsZmvpN.txt' (создан) успешно отправлено.
+INFO 2025-06-13 18:46:48,686 views 21840 14908 Пользователь testadmin успешно загрузил файл 'uploads/test_file_WsZmvpN.txt'.
+INFO 2025-06-13 18:46:51,555 views 21840 14908 Уведомление о файле 'uploads/dummy_PHCg1Ar.txt' (создан) успешно отправлено.
+INFO 2025-06-13 18:46:52,453 views 21840 14908 Отчет на почту test@example.com успешно отправлен пользователем testadmin.
+INFO 2025-06-13 18:52:09,301 views 12052 7644 Уведомление о файле 'uploads/test_file_TvPYHgC.txt' (создан) успешно отправлено.
+INFO 2025-06-13 18:52:09,302 views 12052 7644 Пользователь testadmin успешно загрузил файл 'uploads/test_file_TvPYHgC.txt'.
+INFO 2025-06-13 18:52:12,696 views 12052 7644 Уведомление о файле 'uploads/dummy_QLsWUgc.txt' (создан) успешно отправлено.
+INFO 2025-06-13 18:52:13,719 views 12052 7644 Отчет на почту test@example.com успешно отправлен пользователем testadmin.
+INFO 2025-06-14 11:09:55,389 views 14832 11088 Уведомление о файле 'uploads/test_file_sWE1fAv.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:09:55,389 views 14832 11088 Пользователь testadmin успешно загрузил файл 'uploads/test_file_sWE1fAv.txt'.
+INFO 2025-06-14 11:09:58,417 views 14832 11088 Уведомление о файле 'uploads/dummy_9ytlrWu.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:09:59,364 views 14832 11088 Отчет на почту test@example.com успешно отправлен пользователем testadmin.
+INFO 2025-06-14 11:24:06,041 views 18212 19148 Уведомление о файле 'uploads/test_file_tptDhC9.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:24:06,042 views 18212 19148 Пользователь testadmin успешно загрузил файл 'uploads/test_file_tptDhC9.txt'.
+INFO 2025-06-14 11:24:06,647 views 18212 19148 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:24:07,115 views 18212 19148 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_hTyfY1a.txt' через API.
+INFO 2025-06-14 11:24:07,612 views 18212 19148 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_swtdWAe.txt' через API.
+INFO 2025-06-14 11:24:07,614 views 18212 19148 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:24:08,074 views 18212 19148 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_jEe3tMJ.txt' через API.
+INFO 2025-06-14 11:24:08,082 views 18212 19148 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:24:08,542 views 18212 19148 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_uyTqMFM.txt' через API.
+INFO 2025-06-14 11:24:08,543 views 18212 19148 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:24:09,011 views 18212 19148 Уведомление о файле 'uploads/dummy_eFFlJmT.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:24:09,955 views 18212 19148 Отчет на почту test@example.com успешно отправлен пользователем testadmin.
+INFO 2025-06-14 11:24:20,479 views 15300 15644 Уведомление о файле 'uploads/test_file_h3TUQ1R.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:24:20,479 views 15300 15644 Пользователь testadmin успешно загрузил файл 'uploads/test_file_h3TUQ1R.txt'.
+INFO 2025-06-14 11:24:21,057 views 15300 15644 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:24:21,510 views 15300 15644 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_sfCZIBP.txt' через API.
+INFO 2025-06-14 11:24:21,989 views 15300 15644 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_sGHPSFG.txt' через API.
+INFO 2025-06-14 11:24:21,991 views 15300 15644 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:24:22,486 views 15300 15644 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_U3wETwH.txt' через API.
+INFO 2025-06-14 11:24:22,489 views 15300 15644 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:24:22,952 views 15300 15644 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_uorR1ox.txt' через API.
+INFO 2025-06-14 11:24:22,954 views 15300 15644 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:24:23,393 views 15300 15644 Уведомление о файле 'uploads/dummy_NDodMFg.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:24:24,328 views 15300 15644 Отчет на почту test@example.com успешно отправлен пользователем testadmin.
+INFO 2025-06-14 11:25:45,991 views 13216 12108 Уведомление о файле 'uploads/test_file_ZOHqYrb.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:25:45,991 views 13216 12108 Пользователь testadmin успешно загрузил файл 'uploads/test_file_ZOHqYrb.txt'.
+INFO 2025-06-14 11:25:46,558 views 13216 12108 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:25:47,026 views 13216 12108 Уведомление о файле 'uploads/test_file_W4JtGx3.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:25:47,027 views 13216 12108 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_W4JtGx3.txt' через API.
+INFO 2025-06-14 11:25:47,520 views 13216 12108 Уведомление о файле 'uploads/test_file_gWcN0u1.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:25:47,520 views 13216 12108 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_gWcN0u1.txt' через API.
+INFO 2025-06-14 11:25:47,522 views 13216 12108 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:25:47,979 views 13216 12108 Уведомление о файле 'uploads/test_file_pcppzcN.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:25:47,979 views 13216 12108 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_pcppzcN.txt' через API.
+INFO 2025-06-14 11:25:47,983 views 13216 12108 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:25:47,986 views 13216 12108 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:25:47,991 views 13216 12108 API: Уведомление о замене файла 'uploads/test_file_pcppzcN.txt' на 'uploads/updated_test_file_E3a2wKK.txt' успешно отправлено.
+INFO 2025-06-14 11:25:48,457 views 13216 12108 Уведомление о файле 'uploads/test_file_nRRYTH9.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:25:48,457 views 13216 12108 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_nRRYTH9.txt' через API.
+INFO 2025-06-14 11:25:48,459 views 13216 12108 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:25:48,461 views 13216 12108 API: Уведомление об удалении файла 'uploads/test_file_nRRYTH9.txt' успешно отправлено.
+INFO 2025-06-14 11:25:48,935 views 13216 12108 Уведомление о файле 'uploads/dummy_UbacZTa.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:25:49,887 views 13216 12108 Отчет на почту test@example.com успешно отправлен пользователем testadmin.
+INFO 2025-06-14 11:26:21,036 views 15548 20616 Уведомление о файле 'uploads/test_file_rrTVRUL.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:26:21,036 views 15548 20616 Пользователь testadmin успешно загрузил файл 'uploads/test_file_rrTVRUL.txt'.
+INFO 2025-06-14 11:26:21,496 views 15548 20616 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:26:21,964 views 15548 20616 Уведомление о файле 'uploads/test_file_yM9Z06S.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:26:21,965 views 15548 20616 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_yM9Z06S.txt' через API.
+INFO 2025-06-14 11:26:22,438 views 15548 20616 Уведомление о файле 'uploads/test_file_x4VRVdo.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:26:22,438 views 15548 20616 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_x4VRVdo.txt' через API.
+INFO 2025-06-14 11:26:22,440 views 15548 20616 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:26:22,904 views 15548 20616 Уведомление о файле 'uploads/test_file_t6xXw3c.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:26:22,904 views 15548 20616 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_t6xXw3c.txt' через API.
+INFO 2025-06-14 11:26:22,907 views 15548 20616 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:26:22,910 views 15548 20616 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:26:22,916 views 15548 20616 API: Уведомление о замене файла 'uploads/test_file_t6xXw3c.txt' на 'uploads/updated_test_file_AKigVgo.txt' успешно отправлено.
+INFO 2025-06-14 11:26:23,369 views 15548 20616 Уведомление о файле 'uploads/test_file_SxaCZQs.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:26:23,369 views 15548 20616 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_SxaCZQs.txt' через API.
+INFO 2025-06-14 11:26:23,371 views 15548 20616 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:26:23,374 views 15548 20616 API: Уведомление об удалении файла 'uploads/test_file_SxaCZQs.txt' успешно отправлено.
+INFO 2025-06-14 11:26:23,822 views 15548 20616 Уведомление о файле 'uploads/dummy_SHPXweJ.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:26:24,770 views 15548 20616 Отчет на почту test@example.com успешно отправлен пользователем testadmin.
+INFO 2025-06-14 11:28:01,142 views 16792 1648 Уведомление о файле 'uploads/test_file_ZQG9Ce3.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:28:01,143 views 16792 1648 Пользователь testadmin успешно загрузил файл 'uploads/test_file_ZQG9Ce3.txt'.
+INFO 2025-06-14 11:28:01,570 views 16792 1648 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:28:02,004 views 16792 1648 Уведомление о файле 'uploads/test_file_UqWZgWr.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:28:02,004 views 16792 1648 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_UqWZgWr.txt' через API.
+INFO 2025-06-14 11:28:02,441 views 16792 1648 Уведомление о файле 'uploads/test_file_0cuHz7h.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:28:02,441 views 16792 1648 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_0cuHz7h.txt' через API.
+INFO 2025-06-14 11:28:02,443 views 16792 1648 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:28:02,869 views 16792 1648 Уведомление о файле 'uploads/test_file_GgcTxsA.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:28:02,869 views 16792 1648 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_GgcTxsA.txt' через API.
+INFO 2025-06-14 11:28:02,872 views 16792 1648 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:28:02,875 views 16792 1648 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:28:02,879 views 16792 1648 API: Уведомление о замене файла 'uploads/test_file_GgcTxsA.txt' на 'uploads/updated_test_file_Xcttt4Q.txt' успешно отправлено.
+INFO 2025-06-14 11:28:03,304 views 16792 1648 Уведомление о файле 'uploads/test_file_DnlgCjR.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:28:03,304 views 16792 1648 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_DnlgCjR.txt' через API.
+INFO 2025-06-14 11:28:03,305 views 16792 1648 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:28:03,308 views 16792 1648 API: Уведомление об удалении файла 'uploads/test_file_DnlgCjR.txt' успешно отправлено.
+INFO 2025-06-14 11:28:03,730 views 16792 1648 Уведомление о файле 'uploads/dummy_CiLGboW.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:28:04,613 views 16792 1648 Отчет на почту test@example.com успешно отправлен пользователем testadmin.
+INFO 2025-06-14 11:32:59,063 views 5884 18880 Уведомление о файле 'uploads/test_file_Ak9onMA.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:32:59,063 views 5884 18880 Пользователь testadmin успешно загрузил файл 'uploads/test_file_Ak9onMA.txt'.
+INFO 2025-06-14 11:32:59,522 views 5884 18880 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:32:59,992 views 5884 18880 Уведомление о файле 'uploads/test_file_j08PCrV.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:32:59,992 views 5884 18880 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_j08PCrV.txt' через API.
+INFO 2025-06-14 11:33:00,464 views 5884 18880 Уведомление о файле 'uploads/test_file_9JKOSLX.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:33:00,465 views 5884 18880 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_9JKOSLX.txt' через API.
+INFO 2025-06-14 11:33:00,467 views 5884 18880 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:33:00,925 views 5884 18880 Уведомление о файле 'uploads/test_file_f6Glvbw.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:33:00,925 views 5884 18880 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_f6Glvbw.txt' через API.
+INFO 2025-06-14 11:33:00,928 views 5884 18880 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:33:00,931 views 5884 18880 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:33:00,937 views 5884 18880 API: Уведомление о замене файла 'uploads/test_file_f6Glvbw.txt' на 'uploads/updated_test_file_ACTi87J.txt' успешно отправлено.
+INFO 2025-06-14 11:33:01,394 views 5884 18880 Уведомление о файле 'uploads/test_file_8XnNprR.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:33:01,394 views 5884 18880 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_8XnNprR.txt' через API.
+INFO 2025-06-14 11:33:01,396 views 5884 18880 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:33:01,398 views 5884 18880 API: Уведомление об удалении файла 'uploads/test_file_8XnNprR.txt' успешно отправлено.
+INFO 2025-06-14 11:33:01,859 views 5884 18880 Уведомление о файле 'uploads/dummy_XOJRj8f.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:33:02,801 views 5884 18880 Отчет на почту test@example.com успешно отправлен пользователем testadmin.
+INFO 2025-06-14 11:33:03,696 views 5884 18880 Пользователь testadmin просматривает свой профиль.
+INFO 2025-06-14 11:33:05,505 views 5884 18880 Запрошена страница статуса. Пользователей: 3, Общий размер файлов: 0.0 MB, Статус Email: Настроен и доступен.
+WARNING 2025-06-14 11:33:06,433 views 5884 18880 Пользователь testadmin пытался загрузить файл с ошибками формы: <ul class="errorlist"><li>file<ul class="errorlist" id="id_file_error"><li>Обязательное поле.</li></ul></li></ul>
+INFO 2025-06-14 11:33:07,408 views 5884 18880 Старый файл 'uploads/test_file_g9GZyz3.txt' был успешно удален после замены.
+INFO 2025-06-14 11:33:07,409 views 5884 18880 Уведомление о замене файла 'uploads/test_file_g9GZyz3.txt' на 'uploads/test_file_g9GZyz3.txt' успешно отправлено.
+INFO 2025-06-14 11:33:07,409 views 5884 18880 Пользователь testadmin успешно заменил файл 'uploads/test_file_g9GZyz3.txt' на 'uploads/test_file_g9GZyz3.txt'.
+WARNING 2025-06-14 11:33:08,400 views 5884 18880 Пользователь testadmin пытался отправить отчет с ошибками формы: <ul class="errorlist"><li>to_email<ul class="errorlist" id="id_to_email_error"><li>Обязательное поле.</li></ul></li><li>subject<ul class="errorlist" id="id_subject_error"><li>Обязательное поле.</li></ul></li><li>message<ul class="errorlist" id="id_message_error"><li>Обязательное поле.</li></ul></li></ul>
+ERROR 2025-06-14 11:33:10,217 views 5884 18880 Ошибка отправки уведомления о файле 'uploads/test_file_xEAJTNz.txt' (создан): SMTP error
+INFO 2025-06-14 11:33:10,218 views 5884 18880 Пользователь testadmin успешно загрузил файл 'uploads/test_file_xEAJTNz.txt'.
+ERROR 2025-06-14 11:33:11,112 views 5884 18880 Ошибка отправки отчета на почту test@example.com пользователем testadmin: SMTP error
+INFO 2025-06-14 11:33:52,405 views 21432 19824 Уведомление о файле 'uploads/test_file_GyMp30C.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:33:52,405 views 21432 19824 Пользователь testadmin успешно загрузил файл 'uploads/test_file_GyMp30C.txt'.
+INFO 2025-06-14 11:33:52,868 views 21432 19824 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:33:53,331 views 21432 19824 Уведомление о файле 'uploads/test_file_hpyqSIL.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:33:53,331 views 21432 19824 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_hpyqSIL.txt' через API.
+INFO 2025-06-14 11:33:53,800 views 21432 19824 Уведомление о файле 'uploads/test_file_3KRuU2C.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:33:53,801 views 21432 19824 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_3KRuU2C.txt' через API.
+INFO 2025-06-14 11:33:53,802 views 21432 19824 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:33:54,260 views 21432 19824 Уведомление о файле 'uploads/test_file_iDa0wPv.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:33:54,261 views 21432 19824 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_iDa0wPv.txt' через API.
+INFO 2025-06-14 11:33:54,264 views 21432 19824 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:33:54,267 views 21432 19824 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:33:54,272 views 21432 19824 API: Уведомление о замене файла 'uploads/test_file_iDa0wPv.txt' на 'uploads/updated_test_file_jbyYfcl.txt' успешно отправлено.
+INFO 2025-06-14 11:33:54,733 views 21432 19824 Уведомление о файле 'uploads/test_file_r08wznw.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:33:54,734 views 21432 19824 API: Пользователь testadmin успешно загрузил файл 'uploads/test_file_r08wznw.txt' через API.
+INFO 2025-06-14 11:33:54,735 views 21432 19824 API: Пользователь testadmin запрашивает список файлов через API.
+INFO 2025-06-14 11:33:54,739 views 21432 19824 API: Уведомление об удалении файла 'uploads/test_file_r08wznw.txt' успешно отправлено.
+INFO 2025-06-14 11:33:55,189 views 21432 19824 Уведомление о файле 'uploads/dummy_kRiXaMz.txt' (создан) успешно отправлено.
+INFO 2025-06-14 11:33:56,132 views 21432 19824 Отчет на почту test@example.com успешно отправлен пользователем testadmin.
+INFO 2025-06-14 11:33:57,037 views 21432 19824 Пользователь testadmin просматривает свой профиль.
+INFO 2025-06-14 11:33:58,859 views 21432 19824 Запрошена страница статуса. Пользователей: 3, Общий размер файлов: 0.0 MB, Статус Email: Настроен и доступен.
+INFO 2025-06-14 11:33:58,869 views 21432 19824 Запрошена страница статуса. Пользователей: 0, Общий размер файлов: 0.0 MB, Статус Email: Настроен и доступен.
+WARNING 2025-06-14 11:33:59,883 views 21432 19824 Пользователь testadmin пытался загрузить файл с ошибками формы: <ul class="errorlist"><li>file<ul class="errorlist" id="id_file_error"><li>Обязательное поле.</li></ul></li></ul>
+INFO 2025-06-14 11:34:00,788 views 21432 19824 Старый файл 'uploads/test_file_jEgXhUh.txt' был успешно удален после замены.
+INFO 2025-06-14 11:34:00,789 views 21432 19824 Уведомление о замене файла 'uploads/test_file_jEgXhUh.txt' на 'uploads/test_file_jEgXhUh.txt' успешно отправлено.
+INFO 2025-06-14 11:34:00,789 views 21432 19824 Пользователь testadmin успешно заменил файл 'uploads/test_file_jEgXhUh.txt' на 'uploads/test_file_jEgXhUh.txt'.
+WARNING 2025-06-14 11:34:01,695 views 21432 19824 Пользователь testadmin пытался отправить отчет с ошибками формы: <ul class="errorlist"><li>to_email<ul class="errorlist" id="id_to_email_error"><li>Обязательное поле.</li></ul></li><li>subject<ul class="errorlist" id="id_subject_error"><li>Обязательное поле.</li></ul></li><li>message<ul class="errorlist" id="id_message_error"><li>Обязательное поле.</li></ul></li></ul>
+ERROR 2025-06-14 11:34:03,507 views 21432 19824 Ошибка отправки уведомления о файле 'uploads/test_file_Q4IceXf.txt' (создан): SMTP error
+INFO 2025-06-14 11:34:03,507 views 21432 19824 Пользователь testadmin успешно загрузил файл 'uploads/test_file_Q4IceXf.txt'.
+ERROR 2025-06-14 11:34:04,405 views 21432 19824 Ошибка отправки отчета на почту test@example.com пользователем testadmin: SMTP error
+INFO 2025-06-14 11:39:26,645 views 15352 1636 Пользователь margusha просматривает список файлов.
+INFO 2025-06-14 11:39:35,113 views 15352 5252 Запрошена страница статуса. Пользователей: 2, Общий размер файлов: 0.3 MB, Статус Email: Настроен и доступен.
+INFO 2025-06-14 11:39:38,710 views 15352 5252 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-14 11:39:38,775 views 15352 5252 API: Пользователь margusha запрашивает список файлов через API.
+INFO 2025-06-14 11:51:22,158 views 15664 2136 Пользователь margusha просматривает список файлов.
+INFO 2025-06-14 12:44:22,305 views 15664 22316 Пользователь margusha просматривает список файлов.
+INFO 2025-06-14 12:46:26,715 views 15664 22316 Уведомление о файле 'uploads/script.sql' (создан) успешно отправлено.
+INFO 2025-06-14 12:46:26,716 views 15664 22316 Пользователь margusha успешно загрузил файл 'uploads/script.sql'.
+INFO 2025-06-14 12:46:26,735 views 15664 22316 Пользователь margusha просматривает список файлов.
+INFO 2025-06-14 12:46:51,973 views 15664 22316 Пользователь margusha просматривает свой профиль.
+INFO 2025-06-14 12:48:14,774 views 15664 22316 Запрошена страница статуса. Пользователей: 2, Общий размер файлов: 0.32 MB, Статус Email: Настроен и доступен.
+INFO 2025-06-14 13:22:45,802 views 15664 15280 Пользователь margusha просматривает список файлов.
+INFO 2025-06-14 13:22:51,311 views 15664 15280 Пользователь margusha просматривает свой профиль.
+INFO 2025-06-14 13:22:55,637 views 15664 15280 Пользователь margusha просматривает список файлов.
+INFO 2025-06-14 13:22:57,444 views 15664 15280 Пользователь margusha просматривает список файлов.
+INFO 2025-06-14 13:25:31,377 views 15664 15280 Пользователь user1 просматривает список файлов.
+INFO 2025-06-14 13:26:03,917 views 15664 12864 Уведомление о файле 'uploads/script_13JxXsT.sql' (создан) успешно отправлено.
+INFO 2025-06-14 13:26:03,918 views 15664 12864 Пользователь user1 успешно загрузил файл 'uploads/script_13JxXsT.sql'.
+INFO 2025-06-14 13:26:03,935 views 15664 12864 Пользователь user1 просматривает список файлов.
+INFO 2025-06-14 13:26:30,617 views 15664 12864 Уведомление о файле 'uploads/Вопросы_к_экзамену_МДК.01.01_РПМ.docx' (создан) успешно отправлено.
+INFO 2025-06-14 13:26:30,618 views 15664 12864 Пользователь user1 успешно загрузил файл 'uploads/Вопросы_к_экзамену_МДК.01.01_РПМ.docx'.
+INFO 2025-06-14 13:26:30,635 views 15664 12864 Пользователь user1 просматривает список файлов.
+INFO 2025-06-14 13:27:34,723 views 15664 12864 Уведомление о файле 'uploads/сервер.txt' (создан) успешно отправлено.
+INFO 2025-06-14 13:27:34,724 views 15664 12864 Пользователь user1 успешно загрузил файл 'uploads/сервер.txt'.
+INFO 2025-06-14 13:27:34,741 views 15664 12864 Пользователь user1 просматривает список файлов.

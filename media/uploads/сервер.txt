@@ -1,0 +1,52 @@
+#include <windows.h>
+#include <stdio.h>
+
+#define MAILSLOT_NAME L"\\\\.\\mailslot\\MyMailslot"
+
+int main() {
+    // Устанавливаем кодировку консоли
+    SetConsoleCP(1251);
+    SetConsoleOutputCP(1251);
+
+    HANDLE hMailslot;
+    DWORD bytesWritten;
+    wchar_t message[256];
+
+    // Подключаемся к почтовому ящику
+    hMailslot = CreateFile(
+        MAILSLOT_NAME,         // Имя почтового ящика
+        GENERIC_WRITE,         // Разрешение на запись
+        FILE_SHARE_READ,       // Совместный доступ на чтение
+        NULL,                  // Атрибуты безопасности по умолчанию
+        OPEN_EXISTING,         // Открываем существующий ящик
+        FILE_ATTRIBUTE_NORMAL,
+        NULL
+    );
+
+    if (hMailslot == INVALID_HANDLE_VALUE) {
+        printf("Ошибка подключения к почтовому ящику\n");
+        return 1;
+    }
+
+    // Ввод сообщения
+    printf("Введите сообщение: ");
+    fgetws(message, 256, stdin);
+
+    // Убираем лишний символ новой строки, если есть
+    size_t len = wcslen(message);
+    if (len > 0 && message[len - 1] == L'\n') {
+        message[len - 1] = L'\0';
+    }
+
+    // Отправка сообщения
+    if (!WriteFile(hMailslot, message, (wcslen(message) + 1) * sizeof(wchar_t), &bytesWritten, NULL)) {
+        printf("Ошибка отправки сообщения\n");
+    }
+    else {
+        printf("Сообщение успешно отправлено!\n");
+    }
+
+    // Закрываем дескриптор
+    CloseHandle(hMailslot);
+    return 0;
+}
